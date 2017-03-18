@@ -1,0 +1,18 @@
+{
+  "name": "obsidian-authentication-node",
+  "version": "1.0.0",
+  "description": "Obsidian Authentication Node provided a convenient to access Obsidian-based Authentication Server for NodeJS based servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cubelrti",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-es2017": "^6.22.0"
+  }
+}
